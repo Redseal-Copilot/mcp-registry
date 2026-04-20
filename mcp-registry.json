@@ -1,0 +1,33 @@
+{
+  "version": "1.0",
+  "organization": "Redseal-Copilot",
+  "registryUrl": "https://raw.githubusercontent.com/Redseal-Copilot/.github/main/mcp-registry.json",
+  "description": "Whitelisted MCP servers for Redseal-Copilot organization",
+  "servers": [
+    {
+      "name": "github",
+      "verified": true,
+      "description": "GitHub repository and issue integration"
+    },
+    {
+      "name": "jira",
+      "verified": true,
+      "description": "Jira project management integration"
+    },
+    {
+      "name": "aggrid",
+      "verified": true,
+      "description": "AG Grid data visualization"
+    },
+    {
+      "name": "keylines",
+      "verified": true,
+      "description": "Graph and network visualization"
+    },
+    {
+      "name": "playwright",
+      "verified": true,
+      "description": "Browser automation and testing"
+    }
+  ]
+}
