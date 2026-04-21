@@ -1,0 +1,9 @@
+{
+  "name": "keylines",
+  "version": "1.0.0",
+  "display_name": "KeyLines",
+  "description": "Graph and network visualization",
+  "transport": {
+    "type": "stdio"
+  }
+}
