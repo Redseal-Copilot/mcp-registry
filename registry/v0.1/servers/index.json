@@ -1,0 +1,10 @@
+{
+  "servers": [
+    { "name": "github" },
+    { "name": "jira" },
+    { "name": "aggrid" },
+    { "name": "keylines" },
+    { "name": "playwright" }
+  ]
+}
+``
