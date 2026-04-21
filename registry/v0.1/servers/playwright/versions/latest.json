@@ -1,0 +1,9 @@
+{
+  "name": "playwright",
+  "version": "1.0.0",
+  "display_name": "Playwright",
+  "description": "Browser automation and testing",
+  "transport": {
+    "type": "stdio"
+  }
+}
