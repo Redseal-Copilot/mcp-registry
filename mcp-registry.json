@@ -6,32 +6,37 @@
   "servers": [
     {
       "name": "github",
+      "type": "mcp",
+      "url": "https://<GITHUB_MCP_ENDPOINT>",
       "enabled": true,
-      "verified": true,
       "description": "GitHub repository and issue integration"
     },
     {
       "name": "jira",
+      "type": "mcp",
+      "url": "https://<JIRA_MCP_ENDPOINT>",
       "enabled": true,
-      "verified": true,
       "description": "Jira project management integration"
     },
     {
       "name": "aggrid",
+      "type": "mcp",
+      "url": "https://<AGGRID_MCP_ENDPOINT>",
       "enabled": true,
-      "verified": true,
       "description": "AG Grid data visualization"
     },
     {
       "name": "keylines",
+      "type": "mcp",
+      "url": "https://<KEYLINES_MCP_ENDPOINT>",
       "enabled": true,
-      "verified": true,
       "description": "Graph and network visualization"
     },
     {
       "name": "playwright",
+      "type": "mcp",
+      "url": "https://<PLAYWRIGHT_MCP_ENDPOINT>",
       "enabled": true,
-      "verified": true,
       "description": "Browser automation and testing"
     }
   ]
