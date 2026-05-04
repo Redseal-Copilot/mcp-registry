@@ -38,13 +38,81 @@
       "_meta": {
         "io.modelcontextprotocol.registry/official": {
           "status": "active",
-          "is_latest": true
+          "is_latest": true,
+          "published_at": "2026-05-01T00:00:00Z",
+          "updated_at": "2026-05-01T00:00:00Z"
+        }
+      }
+    },
+    {
+      "server": {
+        "name": "aggrid",
+        "description": "AgGrid MCP server",
+        "version": "1.0.0",
+        "title": "AgGrid",
+        "remotes": [
+          {
+            "type": "streamable-http",
+            "url": "https://REPLACE-WITH-AGGRID-MCP-ENDPOINT"
+          }
+        ]
+      },
+      "_meta": {
+        "io.modelcontextprotocol.registry/official": {
+          "status": "active",
+          "is_latest": true,
+          "published_at": "2026-05-01T00:00:00Z",
+          "updated_at": "2026-05-01T00:00:00Z"
+        }
+      }
+    },
+    {
+      "server": {
+        "name": "keylines",
+        "description": "Keylines MCP server",
+        "version": "1.0.0",
+        "title": "Keylines",
+        "remotes": [
+          {
+            "type": "streamable-http",
+            "url": "https://REPLACE-WITH-KEYLINES-MCP-ENDPOINT"
+          }
+        ]
+      },
+      "_meta": {
+        "io.modelcontextprotocol.registry/official": {
+          "status": "active",
+          "is_latest": true,
+          "published_at": "2026-05-01T00:00:00Z",
+          "updated_at": "2026-05-01T00:00:00Z"
+        }
+      }
+    },
+    {
+      "server": {
+        "name": "playwright",
+        "description": "Playwright MCP server",
+        "version": "1.0.0",
+        "title": "Playwright",
+        "remotes": [
+          {
+            "type": "streamable-http",
+            "url": "https://REPLACE-WITH-PLAYWRIGHT-MCP-ENDPOINT"
+          }
+        ]
+      },
+      "_meta": {
+        "io.modelcontextprotocol.registry/official": {
+          "status": "active",
+          "is_latest": true,
+          "published_at": "2026-05-01T00:00:00Z",
+          "updated_at": "2026-05-01T00:00:00Z"
         }
       }
     }
   ],
   "metadata": {
-    "count": 2,
+    "count": 5,
     "next_cursor": null
   }
 }
