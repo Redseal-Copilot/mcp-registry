@@ -1,0 +1,9 @@
+{
+  "name": "github",
+  "version": "1.0.0",
+  "display_name": "GitHub",
+  "description": "GitHub repository and issue integration",
+  "transport": {
+    "type": "stdio"
+  }
+}
