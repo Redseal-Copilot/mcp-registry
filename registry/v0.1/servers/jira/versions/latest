@@ -1,0 +1,9 @@
+{
+  "name": "jira",
+  "version": "1.0.0",
+  "display_name": "Jira",
+  "description": "Jira project management integration",
+  "transport": {
+    "type": "stdio"
+  }
+}
