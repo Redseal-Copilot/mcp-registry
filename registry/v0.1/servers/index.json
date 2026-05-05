@@ -31,7 +31,7 @@
         "remotes": [
           {
             "type": "streamable-http",
-            "url": "https://jira-mcp.atlassian.com"
+            "url": "https://mcp.atlassian.com"
           }
         ]
       },
