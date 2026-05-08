@@ -89,27 +89,27 @@
       }
     },
     {
-      "server": {
-        "name": "playwright",
-        "description": "Playwright MCP server",
-        "version": "1.0.0",
-        "title": "Playwright",
-        "remotes": [
-          {
-            "type": "streamable-http",
-            "url": "https://REPLACE-WITH-PLAYWRIGHT-MCP-ENDPOINT"
-          }
-        ]
-      },
-      "_meta": {
-        "io.modelcontextprotocol.registry/official": {
-          "status": "active",
-          "is_latest": true,
-          "published_at": "2026-05-01T00:00:00Z",
-          "updated_at": "2026-05-01T00:00:00Z"
-        }
+  "server": {
+    "name": "playwright",
+    "description": "Playwright MCP server",
+    "version": "1.0.0",
+    "title": "Playwright",
+    "remotes": [
+      {
+        "type": "streamable-http",
+        "url": "http://172.16.9.95:8931/mcp"
       }
+    ]
+  },
+  "_meta": {
+    "io.modelcontextprotocol.registry/official": {
+      "status": "active",
+      "is_latest": true,
+      "published_at": "2026-05-01T00:00:00Z",
+      "updated_at": "2026-05-08T00:00:00Z"
     }
+  }
+}
   ],
   "metadata": {
     "count": 5,
